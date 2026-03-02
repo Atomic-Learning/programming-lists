@@ -17,6 +17,7 @@
         "programming-objects-types",
         "programming-dictionaries",
         "programming-strings",
-        "python-lists-introduction"
+        "python-lists-introduction",
+        "programming-iterables"
     ]
 }
