@@ -15,7 +15,7 @@
     ],
     "related": [
         "programming-objects-types",
-        "programming-dictionaries",
+        "programming-key-value-collections",
         "programming-strings",
         "python-lists-introduction",
         "programming-iterables"
